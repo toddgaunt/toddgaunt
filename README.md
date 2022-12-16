@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @toddgaunt
+- 👀 I’m interested in the natural world
+- 🌱 I’m currently learning about the history of Christianity
+- 💞️ I’m looking to collaborate on tools and compilers
+- 📫 You can reach by email
