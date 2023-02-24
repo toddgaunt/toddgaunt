@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @toddgaunt
 - 👀 I’m interested in programming langauges and compilers
 - 🌱 I’m currently (always) configuring my editor
-- 💞️ I’m looking to collaborate on tools and compilers
-- 📫 You can reach by email
